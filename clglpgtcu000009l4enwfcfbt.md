@@ -18,7 +18,7 @@ So, [my personal website](https://marcusj.tech) is a bit lame. Actually, I would
 
 ## Why the update?
 
-After starting [*yet*](https://blog.marcusweinberger.repl.co/) [**another**](https://replit.com/@MarcusWeinberger/blogold) [<s>additional</s>](https://notes.marcusj.tech/link/blog) blog, I thought it would be a nice way to drive traffic to it if I added a feed of my posts to my personal website.
+After starting [*yet*](https://blog.marcusweinberger.repl.co/) [**another**](https://replit.com/@MarcusWeinberger/blogold) [<s>additional</s>](https://notes.marcusj.tech/link/blog) blog, I thought it would be a nice way to drive traffic to it if I added a feed of my posts to my personal website. On a sidenote, I don't know why I insisted on writing all my previous blogs from scratch. Moving to Hashnode is looking like a good idea.
 
 Well, the [back-end of my website](https://marcusj.tech/__repl) is built with Python, so let's use that to query the Hashnode API. I followed a tutorial which I will link below, and customized it a little, before making a little wrapper for it.
 
