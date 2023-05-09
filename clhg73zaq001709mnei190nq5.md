@@ -11,6 +11,8 @@ tags: analytics, javascript, python, hashnode, pocketbase
 
 ---
 
+[*View part 2 of this article here!*](https://marcus.hashnode.dev/custom-analytics-for-hashnode-part-2)
+
 <details data-node-type="hn-details-summary"><summary>Introduction</summary><div data-type="detailsContent">Hi, my name is <a target="_blank" rel="noopener noreferrer nofollow" href="https://marcusj.tech" style="pointer-events: none">Marcus Weinberger</a>. I'm mainly a Python developer (due to my love for hacking), but I work with JS when I must. One of my passions is creating my own software for doing things - I really enjoy being able to not rely on third parties. This doesn't always benefit me (<a target="_blank" rel="noopener noreferrer nofollow" href="https://blog.marcusj.tech/adding-a-list-of-my-hashnode-posts-to-my-personal-website#heading-why-the-update" style="pointer-events: none">check out the three links to blogs that I wrote from scratch</a> - moving to <a target="_blank" rel="noopener noreferrer nofollow" href="https://marcus.hashnode.dev" style="pointer-events: none">Hashnode</a> ended up being the best for me), but it is a good learning process nonetheless.</div></details>
 
 So, Hashnode has some very nice analytics. I like how you can see how much time people spend on your articles. But one feature that I'd like to see is more location data collected, I want to know where my readers are coming from. Why? Previously, I misjudged potential revenue due to not realizing **over 60% of my userbase resided in Myanmar** and were only using [my service](https://replit.com/@MarcusWeinberger/gptfree-telegram-bot?c=891113) for its free nature.
@@ -201,4 +203,6 @@ While I'm happy with what I created, there are still some things I'd like to wor
 
 For now, I will be using it on all future posts.
 
-<iframe src="https://basichashnodeanalytics.marcusweinberger.repl.co/?slug=creating_custom_analytics&amp;show=true"></iframe>
+<iframe src="https://basichashnodeanalytics.marcusweinberger.repl.co/?slug=creating_custom_analytics&show=true"></iframe>
+
+[*View part 2 of this article here!*](https://marcus.hashnode.dev/custom-analytics-for-hashnode-part-2)
